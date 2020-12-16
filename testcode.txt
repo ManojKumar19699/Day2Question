@@ -1,7 +1,7 @@
 Sample input:-
 
-min:11 and max:20
+min:2 and max:5
 
 Sample output:-
 
-Ans:-11,13,17,19
+Ans:-2,3,5
