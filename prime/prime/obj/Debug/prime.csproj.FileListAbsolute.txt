@@ -1,0 +1,7 @@
+F:\Ques\prime\prime\bin\Debug\prime.exe.config
+F:\Ques\prime\prime\bin\Debug\prime.exe
+F:\Ques\prime\prime\bin\Debug\prime.pdb
+F:\Ques\prime\prime\obj\Debug\prime.csprojAssemblyReference.cache
+F:\Ques\prime\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+F:\Ques\prime\prime\obj\Debug\prime.exe
+F:\Ques\prime\prime\obj\Debug\prime.pdb
